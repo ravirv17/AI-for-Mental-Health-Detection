@@ -1,0 +1,7 @@
+# Ignore the large model file
+*.pth
+*.h5
+*.bin
+*.pkl
+# Ignore the name of your model file specifically if you know it
+mental_health_final.pth
